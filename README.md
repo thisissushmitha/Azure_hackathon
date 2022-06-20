@@ -8,7 +8,7 @@ Our model Legal Equality Prediction using WBL data provided by world bank to pre
 
 Women, Business and the Law (WBL) is the annual studies by world bank measuring the laws and regulations that affect women&#39;s economic opportunity in 190 economies. It uses eight indicators structured around women&#39;s interactions with the law as they move through their lives and careers: Mobility, Workplace, Pay, Marriage, Parenthood, Entrepreneurship, Assets, and Pension from 1971-2022.
 
-![image](https://infygithub.ad.infosys.com/storage/user/34193/files/5a73a071-4811-4c6d-83d1-7a01303a0289)
+![image](https://user-images.githubusercontent.com/107833824/174609998-961bf642-635d-48bb-b4c4-7ba05adf276a.png)
 
 
 WBL index= AVG(workspace,pay,parenthood,mobility,entrpreneurship,assets,pension,marriage).We make use of WBL index along with the 8 indicators to analyse the current stats and predict the future
